@@ -1,0 +1,6 @@
+data_path: data/raw/churn.csv
+target: Exited
+metric: f1
+experiment: bankchurn-exp
+model_name: bankchurn-model
+staging_threshold: 0.80
